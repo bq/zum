@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: bqZUM_Scan_Shield.PcbDoc   06/08/2014  19:13:39
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : bqZUM_Scan_Shield.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.5mm (19.685mil)        Round          41               303.95 mm (11.97 Inch)
+T2        0.66mm (25.984mil)       Round          12               34.77 mm (1.37 Inch)
+T3        0.72mm (28.346mil)       Round          4                14.22 mm (0.56 Inch)
+T4        0.8mm (31.496mil)        Round          4                22.17 mm (0.87 Inch)
+T5        1mm (39.37mil)           Round          4                15.50 mm (0.61 Inch)
+T6        1.1mm (43.307mil)        Round          98               410.74 mm (16.17 Inch)
+T7        3.05mm (120.079mil)      Round          2                5.80 mm (0.23 Inch)
+T8        3.56mm (140.157mil)      Round          1                0.00 mm (0.00 Inch)
+T9        3.3mm (129.921mil)       Round          4         NPTH   137.87 mm (5.43 Inch)
+---------------------------------------------------------------------------
+Totals                                            170              945.02 mm (37.21 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

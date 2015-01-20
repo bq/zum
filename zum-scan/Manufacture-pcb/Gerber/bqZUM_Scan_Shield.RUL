@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Altium\Workspace2\bqSVN\DIY\bqShield_CNC\trunk\PCB\bqZUM_Scan_Shield.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_KO|Scope=Board|Minimum=19.69
