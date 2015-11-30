@@ -5,6 +5,8 @@
 * **ZUM scan** - ZUM Core Shield for control of stepper motors and laser beams of BQ Ciclop 3D Scanner
 * **ZUM Mega 3D** - ATMega based controller for Open Source 3D printers.
 * **ZUM LCD Smart Controller** - LCD and SD card reader for Open Source 3D printers.
+* **ZUM LCD Smart ConnectorAdapter** - Adapter to connect ZUM LCD Smart Controller to bqCNC.
+
 
 ##License
 
