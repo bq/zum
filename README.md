@@ -6,7 +6,7 @@
 * **ZUM Mega 3D** - ATMega based controller for Open Source 3D printers.
 * **ZUM LCD Smart Controller** - LCD and SD card reader for Open Source 3D printers.
 * **ZUM LCD Smart ConnectorAdapter** - Adapter to connect ZUM LCD Smart Controller to bqCNC.
-
+* **ZUM CNC** - Controller board for Witbox 2 printer.
 
 ##License
 
